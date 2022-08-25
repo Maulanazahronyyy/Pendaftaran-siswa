@@ -1,0 +1,13 @@
+html{
+    background-image: url('');
+    background-size: cover;
+}
+
+.login{
+    border: 5px solid rgb(255, 255, 255);
+    margin: 10px 30rem;
+    padding: 25px 15px;
+    position: relative;
+    top: 2cm;
+    background-color: rgb(255, 146, 222);
+}
